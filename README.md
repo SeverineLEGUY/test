@@ -1,10 +1,18 @@
-# +PRESENTATION MISE EN FORME README.md
+
+
+![ CONTENU FICHIER README](https://img.shields.io/badge/-CONTENU_FICHIER_README-red?style=for-the-badge)
+1. Objectif et contenu.
+2. Instructions d'installation et d'exécution de votre code
+3.  un lien vers le jeu de données utilisé 
+4. des ressources externes (liens vers les bibliothèques externes utilisées, articles scientifiques, tutoriels, billets de blog, etc.).
+
+
 # Titre 1
 ## Titre 2
 ### Titre 3
 
- ![ MISE EN FORME DE TEXTE](https://img.shields.io/badge/-MISE_EN_FORME_DE_TEXTE-red?style=for-the-badge)
-
+ 
+#  MISE EN FORME TEXTE
 **gras**
 *italique*
 ~~ barré ~~

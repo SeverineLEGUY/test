@@ -1,9 +1,9 @@
-# PRESENTATION MISE EN FORME README.md
+# + PRESENTATION MISE EN FORME README.md
 # Titre 1
 ## Titre 2
 ### Titre 3
 
-# MISE EN FORME DE TEXTE
+ ![ MISE EN FORME DE TEXTE](https://img.shields.io/badge/-Aperçu-red?style=for-the-badge)
 **gras**
 *italique*
 ~~barré~~
@@ -56,7 +56,7 @@
 :x: 
 :bulb:
 :grinning: :smiley: :smile: :grin: :laughing: :sweat_smile: :joy: :rofl: :relaxed: :blush: :wink: :heart_eyes: :kissing_heart: :thinking: :sunglasses: :neutral_face: :expressionless: :unamused: :sweat: :cry: :sob: :rage: :exploding_head: :cold_face: :hot_face: :sleeping: :dizzy_face: 
- :heart: :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart: :black_heart: :white_heart: :brown_heart: :broken_heart: :sparkles: :star: :star2: :boom: :collision: :anger: :warning: :no_entry: :heavy_check_mark: :cross_mark: 📦 Objets :book: :books: :notebook: :memo: :pencil: :pushpin: :paperclip: :clipboard: :file_folder: :open_file_folder: :card_index: :calendar: :clock1: :hourglass: :moneybag: :credit_card: 
+ :heart: :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart: :black_heart: :white_heart: :brown_heart: :broken_heart: :sparkles: :star: :star2: :boom: :collision: :anger: :warning: :no_entry: :heavy_check_mark: :cross_mark: :book: :books: :notebook: :memo: :pencil: :pushpin: :paperclip: :clipboard: :file_folder: :open_file_folder: :card_index: :calendar: :clock1: :hourglass: :moneybag: :credit_card: 
  :sun_with_face: :full_moon: :new_moon: :earth_africa: :earth_americas: :earth_asia: :ocean: :volcano: :zap: :snowflake: :cloud: :rainbow: :umbrella:
 
 # SECTION REPLIABLE

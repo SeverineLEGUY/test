@@ -4,7 +4,7 @@
 ### Titre 3
 
  ![ MISE EN FORME DE TEXTE](https://img.shields.io/badge/-MISE_EN_FORME_DE_TEXTE-red?style=for-the-badge)
- 
+
 **gras**
 *italique*
 ~~ barré ~~
@@ -27,9 +27,12 @@
 - [x] Fait
 - [ ] À faire
 
-# CODE EN LIGNE
-`code`
-`Print("Hello")`
+# SURBRILLANCE DU CODE
+`print("Hello")`
+```def saluer(nom):
+    return f"Bonjour, {nom} !"
+nom_utilisateur = "Alice"
+print(saluer(nom_utilisateur))```
 
 # LIEN HYPERTEXTE
 [misE en forme README](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)

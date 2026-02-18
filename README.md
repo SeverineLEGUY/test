@@ -31,12 +31,12 @@
 `Print("Hello")`
 
 # LIEN HYPERTEXTE
-[misE en forme](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+[misE en forme README](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 # images
-![Description de l'image](https://via.placeholder.com/150)
+![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-<img src="https://via.placeholder.com/150" width="200"/>
+<img src="https://st2.depositphotos.com/1001911/7684/v/450/depositphotos_76840867-stock-illustration-pointing-at-himself-emoticon.jpg" width="200"/>
 
 # TABLEAU
 | Nom   | Âge |

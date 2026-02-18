@@ -1,9 +1,10 @@
-# + PRESENTATION MISE EN FORME README.md
+# +PRESENTATION MISE EN FORME README.md
 # Titre 1
 ## Titre 2
 ### Titre 3
 
- ![ MISE EN FORME DE TEXTE](https://img.shields.io/badge/-MISE_EN_FORME_DE_TEXTE-red?style=for-the-badge) /n
+ ![ MISE EN FORME DE TEXTE](https://img.shields.io/badge/-MISE_EN_FORME_DE_TEXTE-red?style=for-the-badge)
+ 
 **gras**
 *italique*
 ~~ barré ~~

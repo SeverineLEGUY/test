@@ -28,11 +28,15 @@
 - [ ] À faire
 
 # SURBRILLANCE DU CODE
+
 `print("Hello")`
-``def saluer(nom):
+
+```python
+def saluer(nom):
     return f"Bonjour, {nom} !"
+
 nom_utilisateur = "Alice"
-print(saluer(nom_utilisateur))``
+print(saluer(nom_utilisateur))
 
 # LIEN HYPERTEXTE
 [misE en forme README](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)

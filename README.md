@@ -3,7 +3,7 @@
 ## Titre 2
 ### Titre 3
 
- ![ MISE EN FORME DE TEXTE](https://img.shields.io/badge/-MISE EN FORME DE TEXTE-red?style=for-the-badge) /N
+ ![ MISE EN FORME DE TEXTE](https://img.shields.io/badge/-MISE EN FORME DE TEXTE-red?style=for-the-badge) /n
 **gras**
 *italique*
 ~~barré~~

@@ -35,6 +35,7 @@
 
 # images
 ![Description de l'image](https://via.placeholder.com/150)
+
 <img src="https://via.placeholder.com/150" width="200"/>
 
 # TABLEAU
@@ -49,6 +50,14 @@
 # EMOJIS
 :rocket:
 :smile:
+:fire: 
+:warning: 
+:white_check_mark: 
+:x: 
+:bulb:
+:grinning: :smiley: :smile: :grin: :laughing: :sweat_smile: :joy: :rofl: :relaxed: :blush: :wink: :heart_eyes: :kissing_heart: :thinking: :sunglasses: :neutral_face: :expressionless: :unamused: :sweat: :cry: :sob: :rage: :exploding_head: :cold_face: :hot_face: :sleeping: :dizzy_face: 
+ :heart: :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart: :black_heart: :white_heart: :brown_heart: :broken_heart: :sparkles: :star: :star2: :boom: :collision: :anger: :warning: :no_entry: :heavy_check_mark: :cross_mark: 📦 Objets :book: :books: :notebook: :memo: :pencil: :pushpin: :paperclip: :clipboard: :file_folder: :open_file_folder: :card_index: :calendar: :clock1: :hourglass: :moneybag: :credit_card: 
+ :sun_with_face: :full_moon: :new_moon: :earth_africa: :earth_americas: :earth_asia: :ocean: :volcano: :zap: :snowflake: :cloud: :rainbow: :umbrella:
 
 # SECTION REPLIABLE
 <details>
